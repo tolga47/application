@@ -23,5 +23,5 @@ Veritabanını kurmak için, `bash install-clean.sh` komutunu çalıştırıyoru
 `bash runtests.sh`
 `bash runtests.sh debug`
 
-
+Daha sonra sevislere, http://104.248.21.10:8000/ şeklinde sunucu ip'nize göre bağlanabilirsiniz.
 ## Postman dosyası klasörün içerisindedir.
